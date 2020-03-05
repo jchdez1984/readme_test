@@ -1,1 +1,1 @@
-[![Maven Central](https://img.shields.io/maven-central/v/com.intuit.karate/karate-core.svg)](https://mvnrepository.com/artifact/com.intuit.karate/karate-core)
+[![Maven Central](https://image.shutterstock.com/image-photo/kiev-ukraine-april-20-2015-600w-273231134.jpg)](https://mvnrepository.com/artifact/com.intuit.karate/karate-core)
