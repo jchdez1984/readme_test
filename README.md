@@ -1,1 +1,1 @@
-[![Maven Central](https://image.shutterstock.com/image-photo/kiev-ukraine-april-20-2015-600w-273231134.jpg)](https://mvnrepository.com/artifact/com.intuit.karate/karate-core)
+[![Build Status](https://travis-ci.org/intuit/karate.svg?branch=master)](https://travis-ci.org/intuit/karate)
